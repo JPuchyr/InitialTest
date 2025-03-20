@@ -3,6 +3,8 @@ This is a test of line-endings....
 
 edited in windows with lots of CRLFs 
 
+adding some lines in VIM... No idea line endings :)
+
 
 
 
